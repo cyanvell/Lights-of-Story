@@ -15,3 +15,9 @@ I want to develop a novel forum based on IC. You know the novels written by Chin
     2. The readers in the audience can claim part of the translation work, on the one hand, they can translate in real time, on the other hand, they can quickly complete the translation of the existing works.
     3.After the original author sends the article, the readers in the same language as the author will score it, and the high score works will be recommended to the readers in different language regions for translation, and the translation can get benefits.
     4.Two models of reward：Author—Reader & Author—Translator—Reader. 
+△△Medium-term plan：
+Core: Connect with movies and TV shows. 
+
+    1.Film classification, including characteristics, techniques, folklore,etc.is highly summarized.quickly help with authoring.
+    2.Directed by the screenplay adaptation. 
+    3.Establish incentives and dividend mechanisms. 
