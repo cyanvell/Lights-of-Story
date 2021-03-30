@@ -26,3 +26,6 @@ Core: Connect with movies and TV shows.
 →→△
 The works recommended by multiple regions, more than a certain number of recommenders in each region, and a certain proportion of recommenders will be recommended to the whole network.
  When the proportion of recommenders reaches a certain level, they will be connected to professional script adapters, and then investors will invest in the creation of films. The investors can be individuals or the whole network participants. This is a market with more than one billion US dollars a year. I hope to build the project into the future light of all people's participation in the one-stop service of film production and production.
+. 
+→→△
+The films we make will be popular all over the world. 
